@@ -3,6 +3,6 @@ Hi guys, I am a FxTD at Double Negative Mumbai India.I am a fine arts graduate a
 
 Mahesh Dubey
 FXTD
-linked In
-gmail
-ytube
+https://www.linkedin.com/in/mahesh-dubey-85004313b/
+maheshfx108@gmail.com
+https://www.youtube.com/channel/UClZIv5I9owRBoIzIzYzxpog/videos?view_as=subscriber
