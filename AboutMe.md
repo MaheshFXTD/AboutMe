@@ -1,5 +1,6 @@
-Among the tremendously talented professionals,I am learning coding and maths for Houdini. I want to understand Algorithms which works behind the complex computation inside.
-Hi guys, I am a FXTD at Double Negative Mumbai India.I am a fine arts graduate and I see a lots of possibilities out of Houdini's procedural environment which can create awesome designs and concept arts.
+I am a seasoned Python and Houdini VEX programmer with over 10 years of experience in developing efficient tools and workflows. As an FX Lead, I’ve contributed to numerous blockbuster Hollywood projects, specializing in creating stunning visual effects.  
+
+Currently, I’m diving into Qt and exploring its potential, driven by my enthusiasm for building intuitive and robust interfaces. Passionate about coding and problem-solving, I strive to bring creativity and technical excellence to every project I work on.
 
 Mahesh Dubey
 FXTD
